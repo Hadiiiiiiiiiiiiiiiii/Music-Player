@@ -3,7 +3,7 @@ from pygame import mixer
 mixer.init()
 
 songs = {
-    "1": "TEST.mp3",
+    "1": "Circles.mp3",
     "2": "Dancing in the flames.mp3",
     "3": "Cest La Vie.mp3"
 }
